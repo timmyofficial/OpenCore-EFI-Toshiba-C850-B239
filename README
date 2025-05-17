@@ -1,6 +1,7 @@
 Make sure you have done the steps of making the boot file in legacy boot https://dortania.github.io/OpenCore-Install-Guide/installer-guide/mac-install.html#setting-up-the-installer (if you scroll down you will find something like legacy setup)
 And i recommned getting High sierra from https://github.com/ninxsoft/Mist This worked for me
 Specs: i5-2410M 8gb ddr3 HD3000
+(PLEASE PUT IN ISSUES IF YOU ARE USING THIS(I want to see people who actually use this lmaoo))
 
 Doesnt Work:
 Wifi/Bluetooth
